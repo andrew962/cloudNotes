@@ -1,0 +1,7 @@
+{
+  "name": "NoteCloud",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}

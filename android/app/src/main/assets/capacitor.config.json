@@ -1,0 +1,6 @@
+{
+	"appId": "com.afam.cloudNotes",
+	"appName": "NoteCloud",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}
